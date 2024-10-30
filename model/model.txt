@@ -1,0 +1,6 @@
+[modelling-base.ipynb]
+- Link Pretrained BiT Model [https://www.kaggle.com/models/google/bit/TensorFlow2/m-r50x1/1]
+- Link Pretrained ViT Model [https://www.kaggle.com/models/spsayakpaul/vision-transformer/TensorFlow2/vit-s16-classification/1]
+
+[modelling-pseudo_labelling.ipynb]
+- Link Referensi Mobile-ViT [https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/mobilevit.ipynb]
